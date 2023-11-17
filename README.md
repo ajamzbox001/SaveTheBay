@@ -4,6 +4,4 @@ A Summary of findings and recommendations - Site Map - User Flow Diagram - Regis
 
 This form create by HTML and CSS
 
-A Summary of findings and recommendations - Site Map - User Flow Diagram 
-
 
